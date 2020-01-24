@@ -32,12 +32,19 @@ The density map (Fig.3) of particles’ distribution will appear in the Console 
 
 
 # Problems or Bugs you may encounter
+
 (1)	This model has only been tested in Spyder, and may not work as expected in other environments
+
 (2)	Before you run this model in spider please set the backend to ‘Inline’, otherwise you will get a lot of picture windows. Tools → Preference → IPython console → Graphics → Backend: Inline
+
 (3)	When you run the model first for the first time, two GUI windows should appear, please adjust the scrollbars from the ‘Bacteria Bomb’ window, which is a bigger window, and just ignore another small window.
+
 (4)	You may get stuck or uncontrolled when you adjust the scrollbar. Please wait patiently for a few seconds and slowly move the slider, and it would be better to adjust the wind class by clicking instead of dragging the scrollbar.
+
 (5)	When the wind speed is fast or there are too many particles, an index exceeding limit error may occur. In this case, please adjust the scrollbar to run again.
+
 (6)	The image may not appear in the window immediately, sometimes you need to wait a little longer
+
 (7)	The saved picture may not be the same as the picture displayed in the Console window due to changes in the coordinate axes.
 
 # License	
