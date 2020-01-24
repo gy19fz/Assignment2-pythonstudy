@@ -18,7 +18,7 @@ Number of Particles Scrollbar
 
 This scrollbar allows you to adjust the quantity of the bacteria particles, you can adjust the number of particles from 1000 to 5000.
 
-Scatter Plot and densityof Particles
+Scatter Plot of Particles
 
 ![Image text](image_folder/fig2.jpg)
 
