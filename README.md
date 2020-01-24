@@ -9,14 +9,18 @@ For more information please refer to the Read_me document.
 # How the model works
 This model provides two scrollbars to adjust the wind speed and the number of particles 
 
-# Wind Class Scrollbar
+Wind Class Scrollbar
 This scrollbar allows you to adjust the wind speed before running the model, the particle will move one pixel a second in the first wind class, two pixels a second in the second wind class and three pixels in the third pixels.
 
-# Number of Particles Scrollbar
+Number of Particles Scrollbar
 This scrollbar allows you to adjust the quantity of the bacteria particles, you can adjust the number of particles from 1000 to 5000.
 
-# Scatter Plot of Particles
+Scatter Plot and densityof Particles
 After you adjust the scrollbars, all of the particles will move and their final coordinates will be saved as a text file. The scatter plot (Fig.2) of particles’ position will appear in the Console window (it may not appear immediately due to large quantity of calculations), and the figure will be saved as a jpg picture. Every time you adjust the scrollbar the scatter plot will be renewed automatically and the jpg also will be saved as the latest picture.
+
+Density Map of Particles
+The density map (Fig.3) of particles’ distribution will appear in the Console window after you close the scrollbar window, the density map will also be saved as a jpg picture and update automatically when the scrollbars change.  
+
 
 # Problems or Bugs you may encounter
 (1)	This model has only been tested in Spyder, and may not work as expected in other environments
