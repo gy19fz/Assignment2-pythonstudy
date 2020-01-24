@@ -19,11 +19,13 @@ Number of Particles Scrollbar
 This scrollbar allows you to adjust the quantity of the bacteria particles, you can adjust the number of particles from 1000 to 5000.
 
 Scatter Plot and densityof Particles
+
 ![Image text](image_folder/fig2.jpg)
 
 After you adjust the scrollbars, all of the particles will move and their final coordinates will be saved as a text file. The scatter plot (Fig.2) of particles’ position will appear in the Console window (it may not appear immediately due to large quantity of calculations), and the figure will be saved as a jpg picture. Every time you adjust the scrollbar the scatter plot will be renewed automatically and the jpg also will be saved as the latest picture.
 
 Density Map of Particles
+
 ![Image text](image_folder/fig3.jpg)
 
 The density map (Fig.3) of particles’ distribution will appear in the Console window after you close the scrollbar window, the density map will also be saved as a jpg picture and update automatically when the scrollbars change.  
