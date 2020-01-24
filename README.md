@@ -9,6 +9,7 @@ For more information please refer to the Read_me document.
 # How the model works
 This model provides two scrollbars to adjust the wind speed and the number of particles 
 ![Image text](image_folder/fig1.jpg)
+
 Wind Class Scrollbar
 This scrollbar allows you to adjust the wind speed before running the model, the particle will move one pixel a second in the first wind class, two pixels a second in the second wind class and three pixels in the third pixels.
 
